@@ -1,3 +1,8 @@
+---
+layout: default
+title: LLM 탈옥 평가
+---
+
 # LLM 탈옥 평가
 
 ## 평가 개요
